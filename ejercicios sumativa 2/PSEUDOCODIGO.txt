@@ -1,0 +1,18 @@
+PSEUDOCODIGO:
+
+1. declarar variables contador=0;promedio=0;suma=0;cantidad_personas=0;edad=0;mayor_edad=0;menor_edad=0
+2. ESCRIBE " cuantas personas se le preguntara la edad
+3. LEE y soobrescribecantidad de personas
+4. CICLO MIENTRAS 
+  contador + 1 en variable contador
+  escribe edad
+ operacion suma y edad en variable suma
+ control de flujo SI
+ contador +1 y guarda en variable
+ control de flujo SINO
+ contador +1 y guarda en variable
+5. operacion matematica para sacar el promedio
+6. ESCRIBE variable promedio
+7. ESCRIBE variable menor edad
+8. ESCRIBE variable mayor edad
+
